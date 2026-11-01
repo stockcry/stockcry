@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00B4D8,100:10B981&height=220&section=header&text=STOCKCRY&fontSize=62&fontColor=ffffff&animation=twinkling&desc=Digital%20Financial%20Media%20%7C%20Stock%20%26%20Crypto%20Market%20Intelligence&descSize=20&descAlignY=70" width="100%" />
+<a href="https://stockcry.pages.dev">
+  <img src="https://raw.githubusercontent.com/stockcry/stockcry/main/assets/banner.svg" alt="Stockcry — Digital Financial Media & Market Intelligence" width="100%" />
+</a>
 
+<br/><br/>
+
+[![Official Website](https://img.shields.io/badge/Web%20Portal-stockcry.pages.dev-00B4D8?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=0D1117)](https://stockcry.pages.dev)
 [![Lead Architect](https://img.shields.io/badge/Lead%20Architect-%40FIQTOR-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/FIQTOR)
-[![Focus](https://img.shields.io/badge/Focus-Stock%20%26%20Crypto%20Media-00B4D8?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=0D1117)](https://github.com/stockcry)
-[![Status](https://img.shields.io/badge/Status-Active%20Engineering-F7931A?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)](https://github.com/stockcry)
+[![Focus](https://img.shields.io/badge/Focus-Stock%20%26%20Crypto%20Media-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=0D1117)](https://stockcry.pages.dev)
 [![License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge&labelColor=0D1117)](LICENSE)
 
 <br/>
@@ -21,6 +25,7 @@
 
 ```yaml
 Organization: Stockcry Media
+Official Portal: https://stockcry.pages.dev
 Core Focus: Stock Market Journalism, Cryptocurrency Intelligence, FinTech Analytics
 Platform Type: Multi-channel Media, High-Throughput Market Feeds, Open Developer APIs
 Engineering Lead: @FIQTOR (Lead Architect & Systems Engineer)
@@ -75,6 +80,7 @@ Stockcry's infrastructure, algorithms, and automated media pipelines are enginee
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                         STOCKCRY MEDIA PLATFORM                        │
+│                       🌐 https://stockcry.pages.dev                    │
 └────────────────────────────────────┬───────────────────────────────────┘
                                      │
          ┌───────────────────────────┼───────────────────────────┐
@@ -118,7 +124,7 @@ Stockcry leverages a cloud-native, microservices-oriented technology stack optim
 - [ ] **Stockcry Engine:** High-performance async ingestion microservice for global stock quotes & crypto pair orderbooks.
 - [ ] **Market Sentiment Engine:** LLM-backed sentiment classification pipeline parsing breaking financial headlines in real time.
 - [ ] **Public API & Webhooks:** Developer API offering clean, normalized financial feeds for algorithmic traders and financial researchers.
-- [ ] **Media Dashboard & Web Portal:** Next.js-powered responsive web portal with real-time TradingView charts and news feeds.
+- [ ] **Media Dashboard & Web Portal:** Next.js-powered responsive web portal with real-time TradingView charts and news feeds at [stockcry.pages.dev](https://stockcry.pages.dev).
 - [ ] **Community Telegram Dispatch:** Automated channels broadcasting whale alerts and sudden market momentum shifts.
 
 ---
@@ -135,6 +141,7 @@ Stockcry welcomes external contributors, financial engineers, and open-source en
 
 ## 📬 Contact & Inquiries
 
+- **Official Media Portal:** [https://stockcry.pages.dev](https://stockcry.pages.dev)
 - **Lead Systems Engineer:** [@FIQTOR](https://github.com/FIQTOR)
 - **Media & Partnership Inquiries:** `stockcryy@gmail.com`
 - **GitHub Organization / Profile:** [github.com/stockcry](https://github.com/stockcry)
@@ -143,7 +150,9 @@ Stockcry welcomes external contributors, financial engineers, and open-source en
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:10B981&height=120&section=footer&text=Empowering%20Traders%20With%20Real-Time%20Intelligence&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
+<a href="https://stockcry.pages.dev">
+  <img src="https://raw.githubusercontent.com/stockcry/stockcry/main/assets/footer.svg" alt="Stockcry Footer" width="100%" />
+</a>
 
 <sub>© 2026 Stockcry Media. Built and maintained with open-source spirit. Lead engineering by <a href="https://github.com/FIQTOR">FIQTOR</a>.</sub>
 

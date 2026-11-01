@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080B10" />
+      <stop offset="50%" stop-color="#0D121B" />
+      <stop offset="100%" stop-color="#0A151C" />
+    </linearGradient>
+
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .footer-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      letter-spacing: 1.5px;
+      fill: #F1F5F9;
+    }
+    .footer-desc {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 400;
+      font-size: 13px;
+      fill: #94A3B8;
+    }
+    .footer-link {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #10B981;
+    }
+  </style>
+
+  <!-- Base Card -->
+  <rect width="920" height="120" rx="14" fill="url(#footerBg)" stroke="#1E293B" stroke-width="1.2" />
+
+  <!-- Accent Top Line -->
+  <rect x="0" y="0" width="920" height="3" fill="url(#footerLine)" rx="1.5" />
+
+  <!-- Content Centered -->
+  <g transform="translate(460, 48)" text-anchor="middle">
+    <text class="footer-title">Empowering Traders &amp; Builders With Real-Time Intelligence</text>
+    <text y="30" class="footer-desc">
+      Official Portal: <tspan class="footer-link">stockcry.pages.dev</tspan> • Engineering by <tspan class="footer-link">@FIQTOR</tspan> • Built for Global Markets
+    </text>
+  </g>
+</svg>
